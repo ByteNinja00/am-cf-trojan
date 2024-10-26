@@ -37,7 +37,7 @@ let ipUrlTxt = [
 	'https://raw.githubusercontent.com/ByteNinja00/am-cf-trojan/refs/heads/main/ipv4.txt',
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv6.txt'
 ];
-/*let ipUrlCsv = [
+let ipUrlCsv = [
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv'
 ];
 // Preferred addresses with optional TLS subscription
@@ -46,7 +46,6 @@ let ipLocal = [
 	'icook.hk#t.me/AM_CLUBS 加入交流群解锁更多优选节点',
 	'time.is:443#github.com/amclubs GitHub仓库查看更多项目'
 ];
-*/
 let noTLS = 'false';
 let sl = 5;
 
